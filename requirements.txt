@@ -1,0 +1,10 @@
+numpy
+requests
+Pillow
+click
+torch
+customtkinter
+tkinter
+scipy==1.3.3
+requests==2.22.0
+Pillow==6.2.1
